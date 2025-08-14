@@ -50,40 +50,12 @@ combining **software engineering** with **DevOps principles**.
 
 ---
 
-## 📌 Featured Projects
-
-### 1. **Kubernetes Auth Stack**
-🔹 Dex + Keycloak + Pomerium integration for RBAC and secure access  
-🔹 Self-signed TLS setup with manifests-only deployment  
-🔹 [🔗 View Project](#)
-
-### 2. **Cluster Health Monitoring**
-🔹 Popeye + Prometheus Pushgateway + Grafana integration  
-🔹 Historical health tracking & alerting  
-🔹 [🔗 View Project](#)
-
-### 3. **Multi-Tenant API Platform**
-🔹 Go backend for user & group management  
-🔹 PostgreSQL for relational data, MongoDB for flexible storage  
-🔹 JWT authentication & realm-based isolation  
-🔹 [🔗 View Project](#)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somasundarkapaka&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somasundarkapaka&layout=compact&theme=tokyonight" alt="langs" height="160"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/soma-sundar-kapaka-02a571251/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:somasundarkapaka@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
   </a>
 </p>
