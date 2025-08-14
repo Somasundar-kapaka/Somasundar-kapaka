@@ -43,7 +43,6 @@ combining **software engineering** with **DevOps principles**.
 **Highlights:**
 - 🛠 Built production-grade APIs in **Go** and **Node.js**
 - ☸️ Managed **Kubernetes clusters** with manifests-first approach
-- 🔐 Designed OIDC-based authentication with **Dex, Keycloak, Pomerium**
 - 📊 Automated monitoring stacks using **Prometheus + Grafana**
 - 🗄 Worked with **PostgreSQL** & **MongoDB** for high-availability storage
 - 🚀 Integrated CI/CD pipelines and secure TLS deployments
