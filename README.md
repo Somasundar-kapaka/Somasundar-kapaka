@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Somasundar
 
-<!--
-**Somasundar-kapaka/Somasundar-kapaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Engineer | Cloud-Native & Kubernetes Enthusiast | Go Developer
 
-Here are some ideas to get you started:
+I specialize in building secure, scalable backend systems with a focus on **authentication, RBAC, and API-driven architectures**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Languages:** Go, JavaScript, Bash
+- **Cloud-Native:** Kubernetes, Helm, Manifests, Prometheus, Grafana
+- **Auth & Security:** Dex, Keycloak, Pomerium, Authorino, OIDC, LDAP/AD
+- **Databases:** PostgreSQL, GORM ORM
+- **Other Tools:** Docker, Git, CI/CD
+
+---
+
+## 📌 Featured Projects
+- **🔐 Kubernetes OIDC Auth Stack**
+  - Dex + Keycloak + Pomerium integration for RBAC
+  - Multi-tenant realm-based user isolation
+  - TLS-enabled deployments with manifests
+  - [View Project](#)
+
+- **📊 Cluster Monitoring Pipeline**
+  - Popeye + Prometheus Pushgateway + Grafana
+  - Time-series visualization of cluster health
+  - Automated report generation
+
+- **⚙️ Go API for User & Group Management**
+  - Integrated with Keycloak Admin API
+  - Full CRUD operations with JWT-based security
+  - Multi-tenant support via realm separation
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- [Email](mailto:youremail@example.com)
