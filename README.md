@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋 I'm Somasundar</h1>
-<h3 align="center">Backend Engineer | Cloud-Native Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Backend Engineer | Cloud-Native Enthusiast </h3>
 
 ---
 
